@@ -107,10 +107,9 @@ I thrive on uncovering user behavior patterns, optimizing conversion funnels, an
  <summary><h2>📈 GitHub Stats</h2></summary>
 
 <div align="center">
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyanshbansal94&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyanshbansal94&theme=tokyonight&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshbansal94&theme=tokyonight&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyansh3000&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyansh3000&theme=tokyonight&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh3000&theme=tokyonight&hide_border=false&layout=compact)
  
 </div>
 
@@ -122,10 +121,10 @@ I thrive on uncovering user behavior patterns, optimizing conversion funnels, an
   <summary><h2>🌍 Socials</h2></summary>
 
 <div align="center">
-  <a href="https://github.com/shreyanshbansal94">
+  <a href="https://github.com/shreyansh3000">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
   </a>
-  <a href="https://linkedin.com/in/shreyanshbansal94">
+  <a href="https://www.linkedin.com/in/shreyansh-bansal/">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
   </a>
 </div>
