@@ -58,13 +58,13 @@ I thrive on uncovering user behavior patterns, optimizing conversion funnels, an
 <details>
  <summary><h2>📊 Projects</h2></summary>
 
-#### 🧠 [NIFTY 50 Stock Performance Dashboard](#)
+#### 🧠 [NIFTY 50 Stock Performance Dashboard](https://www.notion.so/NIFTY-50-Scraper-299ff57aa6ba81e5ab13ff246a43e85a)
 *Tools: Alteryx, Python, Power BI*  
 - Scraped stock data from Moneycontrol to analyze **daily market performance**.  
 - Built interactive Power BI visualizations for **top-performing and underperforming stocks**.  
 - Delivered a **data-driven investment insights** dashboard for trend analysis.
 
-#### 💼 [Jobs Scraper Dashboard](#)
+#### 💼 [Jobs Scraper Dashboard](https://www.notion.so/Jobs-Scraper-299ff57aa6ba8187baf2f337053429c5?pvs=25)
 *Tools: Python, Alteryx, Power BI*  
 - Automated scraping of **Alteryx job postings** with Python.  
 - Built **ETL workflows** in Alteryx and **visual dashboards** in Power BI.  
